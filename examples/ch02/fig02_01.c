@@ -6,12 +6,16 @@
 int main( void )
 {
    printf( "Welcome to C!\n" );
+    int length = 0;
+    int width = 0;
+    int area = 0;
+    
 } // end function main 
 
 
 /**************************************************************************
  * (C) Copyright 1992-2015 by Deitel & Associates, Inc. and               *
- * Pearson Education, Inc. All Rights Reserved.                           *
+ * Pearson Education, Inc. All Rights Reserved.                          *
  *                                                                        *
  * DISCLAIMER: The authors and publisher of this book have used their     *
  * best efforts in preparing the book. These efforts include the          *
