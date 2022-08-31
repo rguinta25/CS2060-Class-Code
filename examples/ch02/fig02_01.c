@@ -10,7 +10,14 @@ int main( void )
     int width = 0;
     int area = 0;
     
-    printf("Enter the length"); 
+    printf("Enter the length ");
+    
+    scanf("%d", &length);
+    
+    printf("Enter the width ");
+    
+    scanf("%d", &width);
+    
 } // end function main 
 
 
