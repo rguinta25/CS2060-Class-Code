@@ -10,6 +10,7 @@ int main( void )
     int width = 0;
     int area = 0;
     
+    printf("Enter the length"); 
 } // end function main 
 
 
