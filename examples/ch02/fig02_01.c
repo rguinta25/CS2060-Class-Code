@@ -18,6 +18,7 @@ int main( void )
     
     scanf("%d", &width);
     
+    area = length * width;
 } // end function main 
 
 
