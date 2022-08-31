@@ -11,14 +11,14 @@ int main( void )
     int area = 0;
     
     printf("Enter the length ");
-    
     scanf("%d", &length);
     
     printf("Enter the width ");
-    
     scanf("%d", &width);
     
     area = length * width;
+    
+    printf("Length: %d width: %d and area is %d", length, width, area);
 } // end function main 
 
 
